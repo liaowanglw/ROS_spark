@@ -18,8 +18,8 @@ This repository contains the ROS wrapper of Sparks's driver plus various ROS app
 
 ### Prequirement
 
-* System:	Ubantu 14.04
-* ROS Version:	Indigo(Desktop-Full Install) 
+* System:	Ubantu 16.04
+* ROS Version:	Kinetic(Desktop-Full Install) 
 
 ### Compile
 
@@ -28,9 +28,8 @@ Build this compile with the following steps:
 #make a workspace
 mkdir -p sparkws/src
 cd sparkws/src
-git clone https://github.com/NXROBO/spark.git
+git clone https://github.com/liaowanglw/ROS_spark.git
 cd spark
-git checkout spark-04
 
 #install dependence package
 cd ../..

@@ -1,7 +1,7 @@
 1.安装：
 a.准备环境
-操作系统：ubantu14.04
-ROS版本：indigo
+操作系统：ubantu16.04
+ROS版本：kientic
 b.解压目录：
 spar.rar.gz到home目录下，解压后目录为~/spark/install:
 c.设置：
